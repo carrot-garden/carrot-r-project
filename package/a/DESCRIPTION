@@ -1,0 +1,10 @@
+Package: carrot.a
+Title: Archon Project
+Version: 0.0.0
+Authors@R: person("Carrot", "Trader", email = "trader@carrotgarden.com", role = c("aut", "cre"))
+Description: provides functions
+Depends: R (>= 3.2.1)
+License: Proprietary
+LazyData: true
+Suggests: testthat
+Imports: devtools, git2r
